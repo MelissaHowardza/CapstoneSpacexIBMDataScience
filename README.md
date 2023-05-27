@@ -1,2 +1,2 @@
 #Display the output
-pring("New Python file")
+print("New Python file")
