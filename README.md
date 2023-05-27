@@ -1,5 +1,2 @@
-# testrepo
-
-## Editing the file
-
-It is a markdown in this repository
+#Display the output
+pring("New Python file")
